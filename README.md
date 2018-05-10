@@ -1,4 +1,2 @@
 # unoShop_Multi
-unoShop_Multi is an online Platform that is based on concept of Crowd Sourcing and which is built to make the life of Merchants/Service Providers/Sellers and customers easier.
-
-I will add the framework Source Files here.
+Please refer to the repository "unoShop_Platform" for updated version of this repository
